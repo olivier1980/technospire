@@ -26,3 +26,7 @@ This engine works with Lua scripts, and is comparable to the [LÖVE](https://lov
 All these features are built for an "adventure point'n'click" style game. I left one of the game scripts as an example, see `assets/scripts` folder.
 
 The code is pretty messy at places, but maybe there's something in it you can use. 
+
+Demo of the C++ code: https://youtu.be/ZBwFXzMjI0Q
+
+Released game: https://crazydescent.itch.io/technospire
